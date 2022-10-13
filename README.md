@@ -1,11 +1,7 @@
 # Gif
 
-![](https://giphy.com/gifs/iwLgX0z6UfRVpqDmUw)
+![](<https://giphy.com/gifs/iwLgX0z6UfRVpqDmUw)
 
-Reference-style: 
-![alt text][logo]
-
-[logo]: https://giphy.com/gifs/iwLgX0z6UfRVpqDmUw "Gif"
 
 
 # Getting Started with Create React App
